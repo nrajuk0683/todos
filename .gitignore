@@ -432,5 +432,4 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-/portal-frontend/.angular/cache/13.3.3
-/portal-frontend/.vscode/launch.json
+
