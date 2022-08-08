@@ -67,5 +67,5 @@ npm start
 # Perform/test below actions
 
 Create ToDo  
-Mark As Completed
+Mark As Completed.
 Mark As Pending.
